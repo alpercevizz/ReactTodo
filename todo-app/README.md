@@ -25,3 +25,4 @@ Bu basit to-do uygulamasında input'tan aldığımız ifade todo list'e ekleniyo
 
 1. "Sil" butonunu TodoItem component'i içerisinde content'in yanına ekleyerek onClick event'ine verilecek bir fonksiyon ile silme fonksiyonelliğini ekleyebilirsiniz.
 2. Silme fonksiyonelliği için state içindeki "todos" üzerinde filter fonksiyonuyla filtreleme yapabilir ve state'i bu şekilde güncelleyebilirsiniz.
+
